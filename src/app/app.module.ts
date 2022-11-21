@@ -7,7 +7,6 @@ import { AppareilsComponent } from './appareils/appareils.component';
 import { AppareilItemComponent } from './appareil-item/appareil-item.component';
 import { ContactComponent } from './contact/contact.component';
 import { HeaderComponent } from './header/header.component';
-
 @NgModule({
   declarations: [
     AppComponent,
